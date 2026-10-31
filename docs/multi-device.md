@@ -1,3 +1,5 @@
+> 本文是 TwinDesk 的工程设计文档，为便于与上游源码和协议对照，保留英文原文。
+
 # Multi-device
 
 TwinDesk is a one-to-one app: one computer with another computer, or with a phone. Multi-device is an

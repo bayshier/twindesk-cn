@@ -1,3 +1,5 @@
+> 本文是 TwinDesk 的工程设计文档，为便于与上游源码和协议对照，保留英文原文。
+
 # ReZume
 
 Go on with what you were doing on the other device: the browser tab, the document, or the phone app

@@ -1,3 +1,5 @@
+> 本文是 TwinDesk 的工程设计文档，为便于与上游源码和协议对照，保留英文原文。
+
 # Mesh: many devices connected at once
 
 Status: design for the mesh work (see the pull request that adds it). Written to be implemented in

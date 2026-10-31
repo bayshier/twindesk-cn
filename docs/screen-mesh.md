@@ -1,3 +1,5 @@
+> 本文是 TwinDesk 的工程设计文档，为便于与上游源码和协议对照，保留英文原文。
+
 # Screen sharing in the mesh
 
 Status: design, slices (a) to (e). Builds on `docs/mesh.md` (selected device, pooled features,
